@@ -1,4 +1,4 @@
-# Translocation (chromosome mutation)![27131666750688_ pic](https://user-images.githubusercontent.com/33085700/197921337-5f0b2e0b-4ca4-4bd6-a3fc-797f2e58d7a7.jpg)
+# Chromosomal Translocations
 
-
-Such recombination occurs within a chromosome, a chromosome segment between the two breakpoints becomes inverted and is thus called an inversion. If the rejoining of broken chromosome ends involves two chromosomes, two abnormal chromosomes result: each consists of a part derived from the other chromosome and lacks a part of itself. 
+Translocation is when a piece of one chromosome is recombined with a piece from another chromosome. The two chromosomes are not homologous; they have to be different chromosomes. This recombining happens because the two chromosomes have similar segments that enable them to cross over during meiosis.
+![reciprocal_translocation](https://user-images.githubusercontent.com/33085700/197923396-9c439144-70eb-4a65-81f7-eb91896c8818.png)
